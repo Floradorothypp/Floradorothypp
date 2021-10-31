@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Floradorothypp
 - 👀 I’m interested in animation, running and archery
-- 🌱 I’m currently learning piano and archery
+- 🌱 I’m currently learning piano and archery, also javascript
 - 💞️ I’m looking to collaborate on c++
 - 📫 How to reach me ...
 
